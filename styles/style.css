@@ -1,0 +1,73 @@
+.mobiles-sections
+{
+    /* border:1px solid black; */
+    /* display: none; */
+}
+.mobiles-section
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: space-around;
+
+   
+    
+
+}
+.one-mobile-prop
+{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.one-mobile
+{
+    display: none;
+}
+.mobile-card {
+    /* width: 31%; */
+    /* display: inline-block; */
+    margin: 10px;
+    flex-basis: 30%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.mobile-card-template {
+    display: none;
+}
+
+.mobile-wrapper
+{
+    /* display: none; */
+    text-align: center;
+}
+
+.pagination-prop
+{
+    display: flex;
+	justify-content: center;
+}
+.pagination {
+    	display: none;
+}
+.slides-temp
+{
+    width: 2em;
+	height: 2em;
+	line-height: 2;
+	text-align: center;
+	border: 1px solid #ddd;
+	color: #000;
+
+	background: #f5f5f5;
+	background: linear-gradient( #f5f5f5, #fff );
+	/* display: inline-block; */
+    margin-right: 0.7em;
+    display: inline-block;
+
+
+}
+.pagination .slide {
+    /* display: none; */
+}
+
